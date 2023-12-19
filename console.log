@@ -1,0 +1,168 @@
+Message: Error accessing file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/../Resources/en/welcomescreen/en.json--[object ProgressEvent]
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: Unable to find resource file for language en
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: In location file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/../Resources/en/welcomescreen/en.json
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: NavigationDuplicated: Avoided redundant navigation to current location: "/signin".
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=water%20tank&searchTab=model
+Line: 0
+-----------------------
+Message: Error accessing file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/../Resources/en/welcomescreen/en.json--[object ProgressEvent]
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: Unable to find resource file for language en
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: In location file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/../Resources/en/welcomescreen/en.json
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: NavigationDuplicated: Avoided redundant navigation to current location: "/home".
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=water%20tank&searchTab=model
+Line: 0
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=water%20tank&searchTab=model
+Line: 0
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=pipe&searchTab=model
+Line: 0
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=pipe&searchTab=model&cv=p23.0.419&ctyp=sp-ev&hl=en-US
+Line: 0
+-----------------------
+Message: boot.ts
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/Dialogs/ExtensionManager/js/app.js
+Line: 216
+-----------------------
+Message: initLocale
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/Dialogs/ExtensionManager/js/app.js
+Line: 190
+-----------------------
+Message: > locale: en-US
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/Dialogs/ExtensionManager/js/app.js
+Line: 192
+-----------------------
+Message: loadScript(../../Resources/en-US/extensionmanager/js/app.soy.js) loading...
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/Dialogs/ExtensionManager/js/app.js
+Line: 170
+-----------------------
+Message: > loadScript(../../Resources/en-US/extensionmanager/js/app.soy.js) loaded
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/Dialogs/ExtensionManager/js/app.js
+Line: 173
+-----------------------
+Message: bootApp
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/Dialogs/ExtensionManager/js/app.js
+Line: 202
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=pipe&searchTab=model
+Line: 0
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=pipe&searchTab=model
+Line: 0
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Munchkin.init("%s") options: 645-COJ-341 [object Object]
+Source: https://extensions.sketchup.com/prod/2023-3-31_21-13-3812c5a0f_frontend/index.bundle.js
+Line: 1
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=tank&searchTab=model
+Line: 0
+-----------------------
+Message: Error accessing file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/../Resources/en/welcomescreen/en.json--[object ProgressEvent]
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: Unable to find resource file for language en
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: In location file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/../Resources/en/welcomescreen/en.json
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: NavigationDuplicated: Avoided redundant navigation to current location: "/home".
+Source: file:///C:/Program%20Files/SketchUp/SketchUp%202023/welcomescreen/app.bundle.js
+Line: 42
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=water%20pump&searchTab=model
+Line: 0
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=pipe&searchTab=model
+Line: 0
+-----------------------
+Message: model param:  [object Object]
+Source: https://3dwarehouse.sketchup.com/deploy/26a2e0cc1/static/pSea_26a2e0cc1.js
+Line: 1
+-----------------------
+Message: Uncaught (in promise) #<Object>
+Source: https://3dwarehouse.sketchup.com/search/?q=pipe&searchTab=model&cv=p23.0.419&ctyp=sp-ev&hl=en-US
+Line: 0
+-----------------------

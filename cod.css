@@ -1,0 +1,119 @@
+body{
+    background-color: #8AEDF6;
+    margin-top: 80px;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+.buttons{
+    margin-right: 30px;
+}
+
+button{
+    background-color: #8AEDF6;
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    color: black;
+    font-family: Georgia, serif;
+    margin-left: 133px;
+    box-shadow: 0px 0px 5px black;
+}
+
+button:hover{
+    background: white;
+    transition: 1s;
+    
+}
+
+.login-container{
+    width: 360px;
+    height: 500px;
+    background:  #60A2F5;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    backdrop-filter: drop-shadow(4px 4px 10px rgb(7, 7, 7));
+    transform: translate(-50%,-50%);
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px white;
+    margin-right: 500px;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 42px;
+    font-family: Georgia, serif;
+    color: black;
+}
+
+input{
+    font-size: 14px;
+    font-weight: 300;
+    display: block;
+    width: 96%;
+    margin: 20px 0;
+    height: 30px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    transition: .3s;
+    text-align: center;
+    background-color:  white;
+    font-family: Georgia, serif;
+    box-shadow: 0px 0px 5px black;
+    
+}
+
+.link{
+    text-decoration: none;
+    display: block;
+    margin: 30px auto;
+    text-align: center;
+    color: rgb(15, 15, 14);
+    font-size: 15px;
+    cursor: pointer;
+}
+
+
+input::placeholder:focus{
+    color: rgb(255, 255, 255);
+}
+
+input::placeholder{
+    color: black;
+}
+
+.btn{
+    margin-top: 10px;
+    width: 100%;
+    height: 52px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-left: 0px;
+    box-shadow: 0px 0px 5px black;
+}
+
+.btn:active{
+    transform: scale(0.96);
+}
+
+.btn:hover{
+    background-color: rgb(249, 249, 224);
+    color: black;
+    transition: 1s;
+}
+
+.link:hover{
+    color: black;
+}
+

@@ -1,0 +1,114 @@
+.background{
+    width: 1600x;
+    height: 1250px;
+    height: 1300px;
+    background-color: #81b1Fa;
+}
+.aboutme-container{
+    width: 90%;
+    height: 450px;
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 10px;
+    transform: translate(-50%,-50%);
+}
+
+.aboutme-text{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    color: black;
+}
+
+.aboutme-photo{
+    width: auto;
+    height: auto;
+    margin: auto;
+    margin-right: 20px;
+
+}
+
+img{
+    width: auto;
+    height: 450px;
+    border-radius: 10px;
+}
+
+.moto{
+    margin-left: 10px;
+    background-color: white;
+    padding: 10px;
+    color: black;
+    font-size: 19px;
+    font-weight: 400;
+    border-radius: 10px;
+}
+
+.right{
+    animation-duration: 1.5s;
+    animation-name: slideright;
+}
+
+.left{
+    animation-duration: 1.5s;
+    animation-name: slideleft;
+}
+
+@keyframes slideleft {
+    from{
+        transform: translateY(-50%);
+    }
+}
+
+@keyframes slideright {
+    from{
+        transform: translateY(50%);
+        opacity: 0;
+    }
+}
+.hobbies{
+    margin-top: 500px;
+    margin-right: 700px;
+}
+
+.hobby{
+    width: 1247px;
+    height: 500px;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 570px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+   
+}
+.text-hobby{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-family: Georgia, serif;
+    margin-top: 650px;
+    font-size: 20px;
+    height: 100px;  
+    width: 1440px;
+}
+.imahe{
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: black;
+    border-radius: 0px;
+}
+#title{
+    text-align: center;
+    margin-top: 40px;
+}

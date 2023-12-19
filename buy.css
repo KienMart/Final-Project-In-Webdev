@@ -1,0 +1,14 @@
+body{
+    background: white;
+    text-align: center;
+    font-family: Georgia, serif;
+}
+.imahe{
+    height: 50px;
+    width: 50px;
+    position:absolute;
+    top: 1%;
+    left: 0.9%;
+}
+
+
